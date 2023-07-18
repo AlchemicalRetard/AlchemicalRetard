@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @Dev Rajpal aka Alchemical Retard</h1>
-<h3 align="center">A passionate Game Programmer and XR enthusiast!</h3>
+<h3 align="center">A passionate Game Programmer and XR Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alchemicalretard&label=Profile%20views&color=0e75b6&style=flat" alt="alchemicalretard" /> </p>
 
-- 🔭 I’m currently working on [VRone](https://github.com/AlchemicalRetard/VRone-Hackathon)
+- 🔭 I’m currently working on Personal Project)
 
 - 🌱 I’m currently learning **C#,AR.js**
 
