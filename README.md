@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev.debug@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q4DVI5d9mxgxI_xnneNcoI07_t2P0Kh-/view?usp=sharing](https://drive.google.com/file/d/1Q4DVI5d9mxgxI_xnneNcoI07_t2P0Kh-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iaygd6Wv0uLIXbGo_2ufdEV3rjNL2Lmg/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
